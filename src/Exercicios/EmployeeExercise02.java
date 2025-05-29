@@ -1,4 +1,4 @@
-package cursoJavaCompleto.ProgOrientadaObjetos.entities;
+package Exercicios;
 
 public class EmployeeExercise02 {
     public String name;

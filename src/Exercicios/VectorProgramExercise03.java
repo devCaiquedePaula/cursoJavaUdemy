@@ -1,6 +1,4 @@
-package cursoJavaCompleto.ProgOrientadaObjetos.application;
-
-import cursoJavaCompleto.ProgOrientadaObjetos.entities.VectorExercise03;
+package Exercicios;
 
 import java.util.Locale;
 import java.util.Scanner;

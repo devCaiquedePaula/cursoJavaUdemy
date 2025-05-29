@@ -1,4 +1,4 @@
-package cursoJavaCompleto.ProgOrientadaObjetos.entities;
+package Exercicios;
 
 public class RectangleExercise01 {
     public double width;
