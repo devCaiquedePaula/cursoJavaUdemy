@@ -39,7 +39,9 @@ cursoJavaUdemy/            # Pasta raiz do projeto
 │       ├── EstruturaCondicional/
 │       ├── EstruturaRepetitiva/
 │       ├── EstruturaSequencial/
-│       └── ProgOrientadaObjetos/
+│       ├── ProgOrientadaObjetos/
+|       └── ProgOrientadaObjetos2/
+├── Exercicios/            # Exercícios práticos do curso
 ├── .gitignore              # Configurações de arquivos ignorados pelo Git
 └── cursoJavaUdemy.iml      # Arquivo de projeto do IntelliJ IDEA
 ````
