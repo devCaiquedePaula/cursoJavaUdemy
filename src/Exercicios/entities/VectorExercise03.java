@@ -1,4 +1,4 @@
-package Exercicios;
+package Exercicios.entities;
 
 //Fazer um programa para ler nome, idade e altura de N pessoas
 public class VectorExercise03 {

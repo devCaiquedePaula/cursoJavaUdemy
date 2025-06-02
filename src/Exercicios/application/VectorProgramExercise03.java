@@ -1,4 +1,6 @@
-package Exercicios;
+package Exercicios.application;
+
+import Exercicios.entities.VectorExercise03;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -12,7 +14,7 @@ public class VectorProgramExercise03 {
         Scanner sc = new Scanner(System.in);
         System.out.print("Quantas pessoas serão digitadas? ");
         int n = sc.nextInt();
-        VectorExercise03 [] vect = new VectorExercise03[n];
+        VectorExercise03[] vect = new VectorExercise03[n];
         for (int i = 0; i < n; i++) {
             System.out.printf("Dados da %dª pessoa:\n", i + 1);
             System.out.print("Nome: ");

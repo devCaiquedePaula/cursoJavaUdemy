@@ -1,4 +1,4 @@
-package Exercicios;
+package Exercicios.entities;
 
 public class StudentExercise03 {
     public String name;

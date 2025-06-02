@@ -1,4 +1,6 @@
-package Exercicios;
+package Exercicios.application;
+
+import Exercicios.entities.RectangleExercise01;
 
 import java.util.Locale;
 import java.util.Scanner;
