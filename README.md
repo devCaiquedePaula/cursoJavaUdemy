@@ -30,24 +30,6 @@ Este repositório contém todo o material e exercícios do curso, totalmente com
 - 📦 **Maven** (gerenciamento de dependências)  
 - 🐘 **Spring Data JPA** e 🧱 **Spring Data MongoDB**  
 
-## 📁 Estrutura do Repositório
-
-```plaintext
-cursoJavaUdemy/            # Pasta raiz do projeto
-├── .idea/                 # Configurações do IntelliJ IDEA
-├── out/                   # Saída de compilação
-├── src/
-│   └── cursoJavaCompleto/ # Código-fonte do curso
-│       ├── EstruturaCondicional/
-│       ├── EstruturaRepetitiva/
-│       ├── EstruturaSequencial/
-│       ├── ProgOrientadaObjetos/
-|       └── ProgOrientadaObjetos2/
-├── Exercicios/            # Exercícios práticos do curso
-├── .gitignore              # Configurações de arquivos ignorados pelo Git
-└── cursoJavaUdemy.iml      # Arquivo de projeto do IntelliJ IDEA
-````
-
 ## 🚀 Pré-requisitos
 - ☕ **Java 17+ LTS** instalado
 - 📦 **Maven** (ou **Gradle**, conforme instruído em cada módulo)
