@@ -1,4 +1,4 @@
-![Build Status](https://github.com/devCaiquedePaula/cursoJavaUdemy/actions/workflows/workflow.yaml/badge.svg?branch=main)
+![Build Status](https://github.com/devCaiquedePaula/cursoJavaUdemy/actions/workflows/workflow.yaml/badge.svg?branch=master)
 
 # 📚 Curso de Java - Repositório 🚀
 Este repositório contém todo o material e exercícios do curso, totalmente compatível com a versão LTS atual do Java.
