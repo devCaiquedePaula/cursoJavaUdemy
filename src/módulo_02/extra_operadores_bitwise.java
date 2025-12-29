@@ -4,7 +4,14 @@ public class extra_operadores_bitwise {
     /* Operadores Bitwise
     Os operadores bitwise são usados para manipular dados em nível de bits. 
     Eles operam diretamente nos bits individuais de números inteiros. 
-    Aqui estão os principais operadores bitwise em Java:
+    Tabela verdade dos principais operadores bitwise em Java:
+    | C1 | C2 | AND (&) | OR (|) | XOR (^) |
+    |----|----|---------|--------|---------|
+    | 0  | 0  |    0    |   0    |    0    |
+    | 0  | 1  |    0    |   1    |    1    |
+    | 1  | 0  |    0    |   1    |    1    |
+    | 1  | 1  |    1    |   1    |    0    |
+    Sendo  0 = falso e 1 = verdadeiro.
     */
     public static void main(String[] args) {
         // 1. AND (&): Realiza uma operação AND bit a bit. O resultado é 1 se ambos os bits forem 1.
