@@ -1,0 +1,13 @@
+Membros Estáticos em Java
+
+Em Java, membros estáticos são atributos e métodos que pertencem à classe em si, em vez de pertencerem a instâncias específicas da classe. 
+Isso significa que você pode acessar membros estáticos sem criar um objeto da classe.
+
+Declaração de Membros Estáticos
+Para declarar um membro estático, você usa a palavra-chave "static" na definição do atributo
+
+Aplicações comuns: 
+- Classes utilitárias: métodos estáticos são frequentemente usados em classes utilitárias que fornecem funcionalidades gerais, 
+como a classe Math. ou Collections.
+- Contadores: Atributos estáticos podem ser usados para manter contadores compartilhados entre todas as instâncias de uma classe.
+- Configurações globais: atributos estáticos podem armazenar configurações ou constantes que são comuns a todas as instâncias. ou método.

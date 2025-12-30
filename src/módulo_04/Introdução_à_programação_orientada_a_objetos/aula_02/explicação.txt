@@ -1,0 +1,30 @@
+Classe é um tipo estruturado que pode conter (membros):
+     1. Atributos (características/propriedades)
+     2. Métodos (comportamentos/funções)
+      
+     A Classe também pode prover muitos outros recursos, como:
+     - Construtores
+     - Sobrecarga de métodos
+     - Encapsulamento
+     - Herança
+     - Polimorfismo
+      
+     Exemplos: 
+     - Entidades: Produto, Cliente, Pedido, Funcionário, Triangulo.
+     - Serviços: ProdutoService, ClienteService, PedidoService.
+     - Controladores: ProdutoController, ClienteController, PedidoController.
+     - Utilitários: Math, String, Arrays.
+     - Outros: Scanner, Random, File, views, etc.
+    
+
+Todas as classes em Java são uma subclasse da classe raiz "Object", que está presente no pacote "java.lang". 
+Isso significa que todas as classes herdam automaticamente os métodos e propriedades da classe "Object", 
+permitindo que elas utilizem funcionalidades básicas fornecidas por essa classe raiz.
+
+- Object possui os seguintes métodos principais:
+  - toString(): Retorna uma representação em forma de string do objeto.
+  - equals(Object obj): Compara dois objetos para verificar se são iguais.
+  - hashCode(): Retorna um valor hash para o objeto, usado em estruturas de dados como tabelas hash.
+  - getClass(): Retorna a classe do objeto em tempo de execução.
+  - clone(): Cria e retorna uma cópia do objeto (se a classe implementar a interface Cloneable).
+  - finalize(): Método chamado pelo coletor de lixo antes de destruir o objeto (descontinuado em versões recentes do Java).
